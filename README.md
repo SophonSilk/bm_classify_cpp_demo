@@ -1,0 +1,2 @@
+# bm_classify_cpp_demo
+这是在比特大陆BM1684 AI硬件上运行分类网络的demo
